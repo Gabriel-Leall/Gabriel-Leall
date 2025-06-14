@@ -2,7 +2,7 @@
 ## Oi eu sou a Gabriel Leal!
 ⋄ Estudante da UFPI - Bacharel em Sistema de Informação
 
-⋄ Diretor Financeiro da Empresa Júnior de Tecnologia - Juá Soluções TI - UFPI
+⋄Ex Diretor Financeiro da Empresa Júnior de Tecnologia - Juá Soluções TI - UFPI
 
 ![Gabriel-Leall GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Leall&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Leall&layout=compact&theme=midnight-purple)
