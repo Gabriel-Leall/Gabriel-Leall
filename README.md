@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:gabrielleal7153@email.com" target="_blank" title="Gmail">
+  <a href="mailto:gabrielleal7153@gmail.com" target="_blank" title="Gmail">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;
