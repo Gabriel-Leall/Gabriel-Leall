@@ -1,24 +1,59 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gabriel Leal</h1>
 
-## Oi eu sou a Gabriel Leal!
-⋄ Estudante da UFPI - Bacharel em Sistema de Informação
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Front-End+Developer;UX%2FUI+Designer;" alt="Typing SVG" />
+</p>
 
-⋄Ex Diretor Financeiro da Empresa Júnior de Tecnologia - Juá Soluções TI - UFPI
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-![Gabriel-Leall GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Leall&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Leall&layout=compact&theme=midnight-purple)
+## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on Studant
+  
+- 👨‍💻 Driven by curiosity, I’m always exploring emerging technologies to refine my skills and build better digital experiences.
+  
+- 💬 Ask me about my experience with Developer Web, Design.
+  
+- ⚡ Fun fact: Favorite Person is Yoichi Isagi.
 
 
-### Tecnologias Usadas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Leall-C" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Gabriel-Leall-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Leall-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-Leall-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Leall-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,figma,git,github,vscode&perline=6" />
+  </a>
+</p>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Leall&theme=dark&show_icons=true&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Leall&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
-### Redes Sociais
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielleal7153@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_llim)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-llim)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/5QczB8Kr)
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-llim/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gabrielleal7153@email.com" target="_blank" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Gabriel-Leall" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
