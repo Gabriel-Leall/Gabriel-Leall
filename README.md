@@ -15,7 +15,7 @@
   
 - 💬 Ask me about my experience with Developer Web, Design.
   
-- ⚡ Fun fact: Favorite Person is Yoichi Isagi.
+- ⚡ Fun fact: My first language was C.
 
 
 
